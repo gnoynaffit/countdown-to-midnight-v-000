@@ -5,7 +5,7 @@ while count > 0
   puts "#{count} SECOND(S)!"
   count-= 1
 end
- "0 left. HAPPY NEW YEAR!"
+ "HAPPY NEW YEAR!"
 end
 
 def countdown_with_sleep(count)
